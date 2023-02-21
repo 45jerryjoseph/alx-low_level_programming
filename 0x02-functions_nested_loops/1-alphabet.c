@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * main - print char small
- *
- * Return: Always 0.
- */
-
+  * print_alphabet - Make the alphabet
+  *
+  * Return: void
+  */
 void print_alphabet(void)
 {
 	char ch;
