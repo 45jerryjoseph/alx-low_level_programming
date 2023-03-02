@@ -5,6 +5,8 @@
  * cap_string - capitalize all words
  *
  * @p: string that we capitalize its words
+ *
+ * Return: A pointer to a changed string
  */
 
 char *cap_string(char *p)
