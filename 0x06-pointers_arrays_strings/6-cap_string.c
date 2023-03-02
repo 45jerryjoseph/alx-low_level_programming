@@ -21,7 +21,7 @@ char *cap_string(char *p)
 				continue;
 			}
 		}
-		if (str[i] == ' ')
+		if (p[i] == 32)
 		{
 			++i;
 
