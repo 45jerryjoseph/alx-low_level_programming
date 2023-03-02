@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * _strcat - concatinates  two strings 
- * @dest: The destination string
- * @src: The source string
- *
- * Return:A pointer to resulting string dest
- */
+  * _strcat - concatinates  two strings 
+  * @dest: The destination string
+  * @src: The source string
+  *
+  * Return:A pointer to resulting string dest
+  */
 char *_strcat(char *dest, char *src)
 {
 	int len = 0;
