@@ -35,7 +35,7 @@ char *cap_string(char *p)
 		    p[i] == '{' ||
 		    p[i] == '}')
 		{
-			++i;
+			i++;
 
 			if (p[i] >= 97 && p[i] <= 122)
 			{
