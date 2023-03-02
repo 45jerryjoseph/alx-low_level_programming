@@ -32,7 +32,7 @@ char *cap_string(char *p)
 		}
 		else
 		{
-			if (p[i] >= 'A' && p[i] <= 'Z')
+			if (p[i] >= 65  && p[i] <= 90)
 			{
 				p[i] += 32;
 			}
