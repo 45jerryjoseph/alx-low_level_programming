@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * _strcat - concatinating  two strings 
- * @dest: The appended to
+ * _strcat - concatinates  two strings 
+ * @dest: The destination string
  * @src: The source string
  *
  * Return:A pointer to resulting string dest
