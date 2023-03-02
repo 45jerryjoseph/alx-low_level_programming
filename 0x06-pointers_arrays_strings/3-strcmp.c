@@ -27,7 +27,7 @@ int _strcmp(char *s1, char *s2)
 	}
 	else 
 	{
-		lim =b;
+		lim = b;
 	}
 
 	while (c <= lim)
