@@ -1,4 +1,4 @@
-#iinclude "main.h"
+#include "main.h"
 
 /**
  * helper - Finds the square root of two numbers
