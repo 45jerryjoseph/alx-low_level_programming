@@ -6,7 +6,7 @@
  *
  * Return: 0 Always sucess 
  */
-int main(int argc, char **argv)
+int main(int argc, char *argv[])
 {
 	(void)argv;
 
